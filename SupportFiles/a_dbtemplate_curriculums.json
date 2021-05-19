@@ -1,0 +1,3547 @@
+{
+    "offset": 0,
+    "rows": [
+        {
+            "doc": {
+                "_id": "ACADA",
+                "_rev": "1-8a95fd25dc50f01c554059067680545f",
+                "curriculum": "AC",
+                "learningArea": "the arts - dance",
+                "strandsArray": {
+                    "ACADA": {
+                        "name": "dance",
+                        "strandCode": "ACADA"
+                    },
+                    "ACADAM": {
+                        "name": "making",
+                        "strandCode": "ACADAM"
+                    },
+                    "ACADAR": {
+                        "name": "responding",
+                        "strandCode": "ACADAR"
+                    }
+                }
+            },
+            "id": "ACADA",
+            "key": "ACADA",
+            "value": {
+                "rev": "1-8a95fd25dc50f01c554059067680545f"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACADR",
+                "_rev": "1-92ce8bed62a363b1e3b35fcee50602a2",
+                "curriculum": "AC",
+                "learningArea": "the arts - drama",
+                "strandsArray": {
+                    "ACADR": {
+                        "name": "drama",
+                        "strandCode": "ACADR"
+                    },
+                    "ACADRM": {
+                        "name": "making",
+                        "strandCode": "ACADRM"
+                    },
+                    "ACADRR": {
+                        "name": "responding",
+                        "strandCode": "ACADRR"
+                    }
+                }
+            },
+            "id": "ACADR",
+            "key": "ACADR",
+            "value": {
+                "rev": "1-92ce8bed62a363b1e3b35fcee50602a2"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACAMA",
+                "_rev": "1-34fea4eea4f5ec6253bed2bad1d0cb6b",
+                "curriculum": "AC",
+                "learningArea": "the arts - media arts",
+                "strandsArray": {
+                    "ACAMA": {
+                        "name": "media arts",
+                        "strandCode": "ACAMA"
+                    },
+                    "ACAMAM": {
+                        "name": "making",
+                        "strandCode": "ACAMAM"
+                    },
+                    "ACAMAR": {
+                        "name": "responding",
+                        "strandCode": "ACAMAR"
+                    }
+                }
+            },
+            "id": "ACAMA",
+            "key": "ACAMA",
+            "value": {
+                "rev": "1-34fea4eea4f5ec6253bed2bad1d0cb6b"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACAMU",
+                "_rev": "1-07c7498a9721b560d3b1f37b9bedd5fa",
+                "curriculum": "AC",
+                "learningArea": "the arts - music",
+                "strandsArray": {
+                    "ACAMU": {
+                        "name": "music",
+                        "strandCode": "ACAMU"
+                    },
+                    "ACAMUM": {
+                        "name": "making",
+                        "strandCode": "ACAMUM"
+                    },
+                    "ACAMUR": {
+                        "name": "responding",
+                        "strandCode": "ACAMUR"
+                    }
+                }
+            },
+            "id": "ACAMU",
+            "key": "ACAMU",
+            "value": {
+                "rev": "1-07c7498a9721b560d3b1f37b9bedd5fa"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACAVA",
+                "_rev": "1-38edce0ff024fceeeeaf6dd50b181af1",
+                "curriculum": "AC",
+                "learningArea": "the arts - visual arts",
+                "strandsArray": {
+                    "ACAVA": {
+                        "name": "visual arts",
+                        "strandCode": "ACAVA"
+                    },
+                    "ACAVAM": {
+                        "name": "making",
+                        "strandCode": "ACAVAM"
+                    },
+                    "ACAVAR": {
+                        "name": "responding",
+                        "strandCode": "ACAVAR"
+                    }
+                }
+            },
+            "id": "ACAVA",
+            "key": "ACAVA",
+            "value": {
+                "rev": "1-38edce0ff024fceeeeaf6dd50b181af1"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACDSE",
+                "_rev": "1-60a94824be60b4c37ad7399c26270b85",
+                "curriculum": "AC",
+                "learningArea": "humanities and social sciences - history",
+                "strandsArray": {
+                    "ACDSEH": {
+                        "name": "historical knowledge and understanding",
+                        "strandCode": "ACDSEH"
+                    },
+                    "ACHHS": {
+                        "name": "historical skills",
+                        "strandCode": "ACHHS"
+                    },
+                    "ACOKFH": {
+                        "name": "historical knowledge and understanding - overview",
+                        "strandCode": "ACOKFH"
+                    }
+                }
+            },
+            "id": "ACDSE",
+            "key": "ACDSE",
+            "value": {
+                "rev": "1-60a94824be60b4c37ad7399c26270b85"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACE",
+                "_rev": "1-2097014c8d7dd82e3f864093d34f05fb",
+                "curriculum": "AC",
+                "displayDetailedSummary": true,
+                "learningArea": "english",
+                "strandsArray": {
+                    "ACELA": {
+                        "name": "language",
+                        "strandCode": "ACELA"
+                    },
+                    "ACELT": {
+                        "name": "literature",
+                        "strandCode": "ACELT"
+                    },
+                    "ACELY": {
+                        "name": "literacy",
+                        "strandCode": "ACELY"
+                    }
+                }
+            },
+            "id": "ACE",
+            "key": "ACE",
+            "value": {
+                "rev": "1-2097014c8d7dd82e3f864093d34f05fb"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACHA",
+                "_rev": "1-cbb7cb1858c13fae8cc26a9a9a1e2ac7",
+                "curriculum": "AC",
+                "learningArea": "humanities and social sciences - HASS",
+                "strandsArray": {
+                    "ACHASSI": {
+                        "name": "inquiry and skills",
+                        "strandCode": "ACHASSI"
+                    },
+                    "ACHASSK": {
+                        "name": "knowledge and understanding",
+                        "strandCode": "ACHASSK"
+                    }
+                }
+            },
+            "id": "ACHA",
+            "key": "ACHA",
+            "value": {
+                "rev": "1-cbb7cb1858c13fae8cc26a9a9a1e2ac7"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACHC",
+                "_rev": "1-35df6ea4909e2050fe22558031eb6b90",
+                "curriculum": "AC",
+                "learningArea": "humanities and social sciences - civics and citizenship",
+                "strandsArray": {
+                    "ACHCK": {
+                        "name": "civics and citizenship knowledge and understanding",
+                        "strandCode": "ACHCK"
+                    },
+                    "ACHCS": {
+                        "name": "civics and citizenship skills",
+                        "strandCode": "ACHCS"
+                    }
+                }
+            },
+            "id": "ACHC",
+            "key": "ACHC",
+            "value": {
+                "rev": "1-35df6ea4909e2050fe22558031eb6b90"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACHE",
+                "_rev": "1-d4d5dd5a214d663d99e6724d267d7efa",
+                "curriculum": "AC",
+                "learningArea": "humanities and social sciences - economics and business",
+                "strandsArray": {
+                    "ACHEK": {
+                        "name": "economics and business knowledge and understanding",
+                        "strandCode": "ACHEK"
+                    },
+                    "ACHES": {
+                        "name": "economics and business skills",
+                        "strandCode": "ACHES"
+                    }
+                }
+            },
+            "id": "ACHE",
+            "key": "ACHE",
+            "value": {
+                "rev": "1-d4d5dd5a214d663d99e6724d267d7efa"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACHG",
+                "_rev": "1-2952cb30a7a4f6a0d831d0795d4ae6eb",
+                "curriculum": "AC",
+                "learningArea": "humanities and social sciences - geography",
+                "strandsArray": {
+                    "ACHGK": {
+                        "name": "geographical knowledge and understanding",
+                        "strandCode": "ACHGK"
+                    },
+                    "ACHGS": {
+                        "name": "geographical inquiry and skills",
+                        "strandCode": "ACHGS"
+                    }
+                }
+            },
+            "id": "ACHG",
+            "key": "ACHG",
+            "value": {
+                "rev": "1-2952cb30a7a4f6a0d831d0795d4ae6eb"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLAR",
+                "_rev": "1-c4a0cdc444c889b45bdd3aaaa48d2efa",
+                "curriculum": "AC",
+                "learningArea": "languages - arabic",
+                "strandsArray": {
+                    "ACLARC": {
+                        "name": "communicating",
+                        "strandCode": "ACLARC"
+                    },
+                    "ACLARU": {
+                        "name": "understanding",
+                        "strandCode": "ACLARU"
+                    }
+                }
+            },
+            "id": "ACLAR",
+            "key": "ACLAR",
+            "value": {
+                "rev": "1-c4a0cdc444c889b45bdd3aaaa48d2efa"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLCH",
+                "_rev": "1-cf5c6e560bc4beee058dc3e5c3c3b6f6",
+                "curriculum": "AC",
+                "learningArea": "languages - chinese",
+                "strandsArray": {
+                    "ACLCHC": {
+                        "name": "communicating",
+                        "strandCode": "ACLCHC"
+                    },
+                    "ACLCHU": {
+                        "name": "understanding",
+                        "strandCode": "ACLCHU"
+                    }
+                }
+            },
+            "id": "ACLCH",
+            "key": "ACLCH",
+            "value": {
+                "rev": "1-cf5c6e560bc4beee058dc3e5c3c3b6f6"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLFR",
+                "_rev": "1-0ef80eefba5f5e75cfe710609047e767",
+                "curriculum": "AC",
+                "learningArea": "languages - french",
+                "strandsArray": {
+                    "ACLFRC": {
+                        "name": "communicating",
+                        "strandCode": "ACLFRC"
+                    },
+                    "ACLFRU": {
+                        "name": "understanding",
+                        "strandCode": "ACLFRU"
+                    }
+                }
+            },
+            "id": "ACLFR",
+            "key": "ACLFR",
+            "value": {
+                "rev": "1-0ef80eefba5f5e75cfe710609047e767"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLFW",
+                "_rev": "1-7fa9ae6be21aa054c470fd398817ce8d",
+                "curriculum": "AC",
+                "learningArea": "languages - aboriginal languages and torres strait islander",
+                "strandsArray": {
+                    "ACLFWC": {
+                        "name": "communicating",
+                        "strandCode": "ACLFWC"
+                    },
+                    "ACLFWU": {
+                        "name": "understanding",
+                        "strandCode": "ACLFWU"
+                    }
+                }
+            },
+            "id": "ACLFW",
+            "key": "ACLFW",
+            "value": {
+                "rev": "1-7fa9ae6be21aa054c470fd398817ce8d"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLGE",
+                "_rev": "1-0e87e5a327cabcb74be84297a19a153e",
+                "curriculum": "AC",
+                "learningArea": "languages - german",
+                "strandsArray": {
+                    "ACLGEC": {
+                        "name": "communicating",
+                        "strandCode": "ACLGEC"
+                    },
+                    "ACLGEU": {
+                        "name": "understanding",
+                        "strandCode": "ACLGEU"
+                    }
+                }
+            },
+            "id": "ACLGE",
+            "key": "ACLGE",
+            "value": {
+                "rev": "1-0e87e5a327cabcb74be84297a19a153e"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLHI",
+                "_rev": "1-8cf4bb620b0edc8c426bcf2eddca2a20",
+                "curriculum": "AC",
+                "learningArea": "languages - hindi",
+                "strandsArray": {
+                    "ACLHIC": {
+                        "name": "communicating",
+                        "strandCode": "ACLHIC"
+                    },
+                    "ACLHIU": {
+                        "name": "understanding",
+                        "strandCode": "ACLHIU"
+                    }
+                }
+            },
+            "id": "ACLHI",
+            "key": "ACLHI",
+            "value": {
+                "rev": "1-8cf4bb620b0edc8c426bcf2eddca2a20"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLIN",
+                "_rev": "1-18b9629b011b96bd5945204958f27596",
+                "curriculum": "AC",
+                "learningArea": "languages - indonesian",
+                "strandsArray": {
+                    "ACLINC": {
+                        "name": "communicating",
+                        "strandCode": "ACLINC"
+                    },
+                    "ACLINU": {
+                        "name": "understanding",
+                        "strandCode": "ACLINU"
+                    }
+                }
+            },
+            "id": "ACLIN",
+            "key": "ACLIN",
+            "value": {
+                "rev": "1-18b9629b011b96bd5945204958f27596"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLIT",
+                "_rev": "1-75ba8e4f3c9399bfb4d92807b2df86ae",
+                "curriculum": "AC",
+                "learningArea": "languages - italian",
+                "strandsArray": {
+                    "ACLITC": {
+                        "name": "communicating",
+                        "strandCode": "ACLITC"
+                    },
+                    "ACLITU": {
+                        "name": "understanding",
+                        "strandCode": "ACLITU"
+                    }
+                }
+            },
+            "id": "ACLIT",
+            "key": "ACLIT",
+            "value": {
+                "rev": "1-75ba8e4f3c9399bfb4d92807b2df86ae"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLJA",
+                "_rev": "1-195ef0f7dee6e6b5923e517563cb9cbb",
+                "curriculum": "AC",
+                "learningArea": "languages - japanese",
+                "strandsArray": {
+                    "ACLJAC": {
+                        "name": "communicating",
+                        "strandCode": "ACLJAC"
+                    },
+                    "ACLJAU": {
+                        "name": "understanding",
+                        "strandCode": "ACLJAU"
+                    }
+                }
+            },
+            "id": "ACLJA",
+            "key": "ACLJA",
+            "value": {
+                "rev": "1-195ef0f7dee6e6b5923e517563cb9cbb"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLKO",
+                "_rev": "1-d8d4cd12981e7a56f937accfd65ab8cd",
+                "curriculum": "AC",
+                "learningArea": "languages - korean",
+                "strandsArray": {
+                    "ACLKOC": {
+                        "name": "communicating",
+                        "strandCode": "ACLKOC"
+                    },
+                    "ACLKOU": {
+                        "name": "understanding",
+                        "strandCode": "ACLKOU"
+                    }
+                }
+            },
+            "id": "ACLKO",
+            "key": "ACLKO",
+            "value": {
+                "rev": "1-d8d4cd12981e7a56f937accfd65ab8cd"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLMG",
+                "_rev": "1-83eb4e37140d1a2c4212cfeae77c1847",
+                "curriculum": "AC",
+                "learningArea": "languages - modern greek",
+                "strandsArray": {
+                    "ACLMGC": {
+                        "name": "communicating",
+                        "strandCode": "ACLMGC"
+                    },
+                    "ACLMGU": {
+                        "name": "understanding",
+                        "strandCode": "ACLMGU"
+                    }
+                }
+            },
+            "id": "ACLMG",
+            "key": "ACLMG",
+            "value": {
+                "rev": "1-83eb4e37140d1a2c4212cfeae77c1847"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLSP",
+                "_rev": "1-5f905eec589ebd3a3e7b081200e09771",
+                "curriculum": "AC",
+                "learningArea": "languages - spanish",
+                "strandsArray": {
+                    "ACLSPC": {
+                        "name": "communicating",
+                        "strandCode": "ACLSPC"
+                    },
+                    "ACLSPU": {
+                        "name": "understanding",
+                        "strandCode": "ACLSPU"
+                    }
+                }
+            },
+            "id": "ACLSP",
+            "key": "ACLSP",
+            "value": {
+                "rev": "1-5f905eec589ebd3a3e7b081200e09771"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLTU",
+                "_rev": "1-1aa85905afad2ada65791c572f32aede",
+                "curriculum": "AC",
+                "learningArea": "languages - turkish",
+                "strandsArray": {
+                    "ACLTUC": {
+                        "name": "communicating",
+                        "strandCode": "ACLTUC"
+                    },
+                    "ACLTUU": {
+                        "name": "understanding",
+                        "strandCode": "ACLTUU"
+                    }
+                }
+            },
+            "id": "ACLTU",
+            "key": "ACLTU",
+            "value": {
+                "rev": "1-1aa85905afad2ada65791c572f32aede"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACLVI",
+                "_rev": "1-9745b8441268481efd1cc9cf3c7af363",
+                "curriculum": "AC",
+                "learningArea": "languages - vietnemese",
+                "strandsArray": {
+                    "ACLVIC": {
+                        "name": "communicating",
+                        "strandCode": "ACLVIC"
+                    },
+                    "ACLVIU": {
+                        "name": "understanding",
+                        "strandCode": "ACLVIU"
+                    }
+                }
+            },
+            "id": "ACLVI",
+            "key": "ACLVI",
+            "value": {
+                "rev": "1-9745b8441268481efd1cc9cf3c7af363"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACM",
+                "_rev": "1-133bd6264dea47afe3d1e6fbe388d53a",
+                "curriculum": "AC",
+                "displayDetailedSummary": true,
+                "learningArea": "mathematics",
+                "strandsArray": {
+                    "ACMMG": {
+                        "name": "measurement and geometry",
+                        "strandCode": "ACMMG"
+                    },
+                    "ACMNA": {
+                        "name": "number and algebra",
+                        "strandCode": "ACMNA"
+                    },
+                    "ACMSP": {
+                        "name": "statistics and probability",
+                        "strandCode": "ACMSP"
+                    }
+                }
+            },
+            "id": "ACM",
+            "key": "ACM",
+            "value": {
+                "rev": "1-133bd6264dea47afe3d1e6fbe388d53a"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACP",
+                "_rev": "1-9e0f15c17875df4a54e3957b8b4940df",
+                "curriculum": "AC",
+                "learningArea": "health and physical education",
+                "strandsArray": {
+                    "ACPMP": {
+                        "name": "movement and physical activity",
+                        "strandCode": "ACPMP"
+                    },
+                    "ACPPS": {
+                        "name": "personal, social and community health",
+                        "strandCode": "ACPPS"
+                    }
+                }
+            },
+            "id": "ACP",
+            "key": "ACP",
+            "value": {
+                "rev": "1-9e0f15c17875df4a54e3957b8b4940df"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACS",
+                "_rev": "1-bf199712f72f5aa266b8bf0cf14ef012",
+                "curriculum": "AC",
+                "learningArea": "science",
+                "strandsArray": {
+                    "ACSHE": {
+                        "name": "science as a human endeavour",
+                        "strandCode": "ACSHE"
+                    },
+                    "ACSIS": {
+                        "name": "science inquiry skills",
+                        "strandCode": "ACSIS"
+                    },
+                    "ACSSU": {
+                        "name": "science understanding",
+                        "strandCode": "ACSSU"
+                    }
+                }
+            },
+            "id": "ACS",
+            "key": "ACS",
+            "value": {
+                "rev": "1-bf199712f72f5aa266b8bf0cf14ef012"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACTDE",
+                "_rev": "1-4d766e96bf082a47a69585c7bbb6dca5",
+                "curriculum": "AC",
+                "learningArea": "technologies - design and technologies",
+                "strandsArray": {
+                    "ACTDEK": {
+                        "name": "design and technologies knowledge and understanding",
+                        "strandCode": "ACTDEK"
+                    },
+                    "ACTDEP": {
+                        "name": "design and technologies processes and production skills",
+                        "strandCode": "ACTDEP"
+                    }
+                }
+            },
+            "id": "ACTDE",
+            "key": "ACTDE",
+            "value": {
+                "rev": "1-4d766e96bf082a47a69585c7bbb6dca5"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACTDI",
+                "_rev": "1-f559435bca2543143d7e02d3fb6e3172",
+                "curriculum": "AC",
+                "learningArea": "technologies - digital technologies",
+                "strandsArray": {
+                    "ACTDIK": {
+                        "name": "digital technologies knowledge and understanding",
+                        "strandCode": "ACTDIK"
+                    },
+                    "ACTDIP": {
+                        "name": "digital technologies processes and production skills",
+                        "strandCode": "ACTDIP"
+                    }
+                },
+                "technologies - digital technologies": [
+                    "digital technologies knowledge and understanding",
+                    "digital technologies processes and production skills"
+                ]
+            },
+            "id": "ACTDI",
+            "key": "ACTDI",
+            "value": {
+                "rev": "1-f559435bca2543143d7e02d3fb6e3172"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ACW",
+                "_rev": "1-1ed8c2b6dfea088911774b76ea00eac0",
+                "curriculum": "AC",
+                "learningArea": "work studies",
+                "strandsArray": {
+                    "ACWOP": {
+                        "multipleOptions": [
+                            {
+                                "name": "school-industry cooperative project"
+                            },
+                            {
+                                "name": "contemporary work challenges and opportunities"
+                            },
+                            {
+                                "name": "cross-cultural enterprise"
+                            },
+                            {
+                                "name": "aboriginal and torres strait islander peoples and work"
+                            },
+                            {
+                                "name": "gender and work"
+                            },
+                            {
+                                "name": "school-developed option"
+                            }
+                        ],
+                        "name": "options",
+                        "strandCode": "ACWOP"
+                    },
+                    "ACWSCL": {
+                        "multipleOptions": [
+                            {
+                                "name": "skills for learning and work"
+                            },
+                            {
+                                "name": "career and life design"
+                            }
+                        ],
+                        "name": "skills",
+                        "strandCode": "ACWSCL"
+                    }
+                }
+            },
+            "id": "ACW",
+            "key": "ACW",
+            "value": {
+                "rev": "1-1ed8c2b6dfea088911774b76ea00eac0"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ART",
+                "_rev": "4-1887cc4fdddd5de0ca1312dc3afcad49",
+                "curriculum": "AUSVELS",
+                "learningArea": "the arts",
+                "strandsArray": {
+                    "ARTCR": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "creating and making",
+                        "strandCode": "ARTCR"
+                    },
+                    "ARTER": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "exploring and responding",
+                        "strandCode": "ARTER"
+                    }
+                }
+            },
+            "id": "ART",
+            "key": "ART",
+            "value": {
+                "rev": "4-1887cc4fdddd5de0ca1312dc3afcad49"
+            }
+        },
+        {
+            "doc": {
+                "_id": "CCS",
+                "_rev": "3-d11240ea70ee93706609ffebb9692eee",
+                "curriculum": "AUSVELS",
+                "learningArea": "civics and citizenship",
+                "strandsArray": {
+                    "CCSCKU": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "civic knowledge and understanding",
+                        "strandCode": "CCSCKU"
+                    },
+                    "CCSCOE": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "community engagement",
+                        "strandCode": "CCSCOE"
+                    }
+                }
+            },
+            "id": "CCS",
+            "key": "CCS",
+            "value": {
+                "rev": "3-d11240ea70ee93706609ffebb9692eee"
+            }
+        },
+        {
+            "doc": {
+                "_id": "COM",
+                "_rev": "3-ca844cce419c8351890a697e44c02251",
+                "curriculum": "AUSVELS",
+                "learningArea": "communication",
+                "strandsArray": {
+                    "COMLVR": {
+                        "max": "11.5",
+                        "min": "4",
+                        "name": "listening, viewing and responding",
+                        "strandCode": "COMLVR"
+                    },
+                    "COMPRE": {
+                        "max": "11.5",
+                        "min": "4",
+                        "name": "presenting",
+                        "strandCode": "COMPRE"
+                    }
+                }
+            },
+            "id": "COM",
+            "key": "COM",
+            "value": {
+                "rev": "3-ca844cce419c8351890a697e44c02251"
+            }
+        },
+        {
+            "doc": {
+                "_id": "DCT",
+                "_rev": "3-df2a43a02f4d5c4ac52ef4287b0dd3db",
+                "curriculum": "AUSVELS",
+                "learningArea": "design, creativity and technology",
+                "strandsArray": {
+                    "DCTAE": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "analysing and evaluating",
+                        "strandCode": "DCTAE"
+                    },
+                    "DCTID": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "investigating and designing",
+                        "strandCode": "DCTID"
+                    },
+                    "DCTPRO": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "producing",
+                        "strandCode": "DCTPRO"
+                    }
+                }
+            },
+            "id": "DCT",
+            "key": "DCT",
+            "value": {
+                "rev": "3-df2a43a02f4d5c4ac52ef4287b0dd3db"
+            }
+        },
+        {
+            "doc": {
+                "_id": "EALA",
+                "_rev": "1-6433f065c30f42b66eb793827d9bfae5",
+                "curriculum": "EAL2020",
+                "displayDetailedSummary": true,
+                "learningArea": "EAL - pathway A",
+                "strandsArray": {
+                    "EALAREA": {
+                        "max": "1.75",
+                        "min": "0",
+                        "name": "reading and viewing",
+                        "strandCode": "EALAREA"
+                    },
+                    "EALASPL": {
+                        "max": "1.75",
+                        "min": "0",
+                        "name": "speaking and listening",
+                        "strandCode": "EALASPL"
+                    },
+                    "EALAWRI": {
+                        "max": "1.75",
+                        "min": "0",
+                        "name": "writing",
+                        "strandCode": "EALAWRI"
+                    }
+                }
+            },
+            "id": "EALA",
+            "key": "EALA",
+            "value": {
+                "rev": "1-6433f065c30f42b66eb793827d9bfae5"
+            }
+        },
+        {
+            "doc": {
+                "_id": "EALB",
+                "_rev": "1-c3170491ea53e4b47cfe9e016bb194c8",
+                "curriculum": "EAL2020",
+                "displayDetailedSummary": true,
+                "learningArea": "EAL - pathway B",
+                "strandsArray": {
+                    "EALBREA": {
+                        "max": "3.75",
+                        "min": "0",
+                        "name": "reading and viewing",
+                        "strandCode": "EALBREA"
+                    },
+                    "EALBSPL": {
+                        "max": "3.75",
+                        "min": "0",
+                        "name": "speaking and listening",
+                        "strandCode": "EALBSPL"
+                    },
+                    "EALBWRI": {
+                        "max": "3.75",
+                        "min": "0",
+                        "name": "writing",
+                        "strandCode": "EALBWRI"
+                    }
+                }
+            },
+            "id": "EALB",
+            "key": "EALB",
+            "value": {
+                "rev": "1-c3170491ea53e4b47cfe9e016bb194c8"
+            }
+        },
+        {
+            "doc": {
+                "_id": "EALC",
+                "_rev": "1-10846aa5065615c6059577140613d2c9",
+                "curriculum": "EAL2020",
+                "displayDetailedSummary": true,
+                "learningArea": "EAL - pathway C",
+                "strandsArray": {
+                    "EALCREA": {
+                        "max": "4",
+                        "min": "0",
+                        "name": "reading and viewing",
+                        "strandCode": "EALCREA"
+                    },
+                    "EALCSPL": {
+                        "max": "4",
+                        "min": "0",
+                        "name": "speaking and listening",
+                        "strandCode": "EALCSPL"
+                    },
+                    "EALCWRI": {
+                        "max": "4",
+                        "min": "0",
+                        "name": "writing",
+                        "strandCode": "EALCWRI"
+                    }
+                }
+            },
+            "id": "EALC",
+            "key": "EALC",
+            "value": {
+                "rev": "1-10846aa5065615c6059577140613d2c9"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ENG",
+                "_rev": "3-7b89e9d856e437bcc23ce89d229e8f2f",
+                "alternativeLearningArea": "EAL",
+                "curriculum": "AUSVELS",
+                "displayDetailedSummary": true,
+                "learningArea": "english",
+                "strandsArray": {
+                    "ENGREA": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "reading and viewing",
+                        "strandCode": "ENGREA"
+                    },
+                    "ENGSPL": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "speaking and listening",
+                        "strandCode": "ENGSPL"
+                    },
+                    "ENGWRI": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "writing",
+                        "strandCode": "ENGWRI"
+                    }
+                }
+            },
+            "id": "ENG",
+            "key": "ENG",
+            "value": {
+                "rev": "3-7b89e9d856e437bcc23ce89d229e8f2f"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ESA",
+                "_rev": "3-4fea444286ad868bc11964487b5a949c",
+                "curriculum": "EAL",
+                "displayDetailedSummary": true,
+                "learningArea": "EAL - stage A",
+                "strandsArray": {
+                    "ESAREA": {
+                        "max": "1.75",
+                        "min": "0",
+                        "name": "reading and viewing",
+                        "strandCode": "ESAREA"
+                    },
+                    "ESASPL": {
+                        "max": "1.75",
+                        "min": "0",
+                        "name": "speaking and listening",
+                        "strandCode": "ESASPL"
+                    },
+                    "ESAWRI": {
+                        "max": "1.75",
+                        "min": "0",
+                        "name": "writing",
+                        "strandCode": "ESAWRI"
+                    }
+                }
+            },
+            "id": "ESA",
+            "key": "ESA",
+            "value": {
+                "rev": "3-4fea444286ad868bc11964487b5a949c"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ESB",
+                "_rev": "3-4ea5dad55bf975867cc46517f7f35292",
+                "curriculum": "EAL",
+                "displayDetailedSummary": true,
+                "learningArea": "EAL - stage B",
+                "strandsArray": {
+                    "ESBREA": {
+                        "max": "3.75",
+                        "min": "0",
+                        "name": "reading and viewing",
+                        "strandCode": "ESBREA"
+                    },
+                    "ESBSPL": {
+                        "max": "3.75",
+                        "min": "0",
+                        "name": "speaking and listening",
+                        "strandCode": "ESBSPL"
+                    },
+                    "ESBWRI": {
+                        "max": "3.75",
+                        "min": "0",
+                        "name": "writing",
+                        "strandCode": "ESBWRI"
+                    }
+                }
+            },
+            "id": "ESB",
+            "key": "ESB",
+            "value": {
+                "rev": "3-4ea5dad55bf975867cc46517f7f35292"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ESS",
+                "_rev": "3-b0fdbe5bf853e0fc8f8a6b83a8c4b7eb",
+                "curriculum": "EAL",
+                "displayDetailedSummary": true,
+                "learningArea": "EAL - stage S",
+                "strandsArray": {
+                    "ESSREA": {
+                        "max": "4",
+                        "min": "0",
+                        "name": "reading and viewing",
+                        "strandCode": "ESSREA"
+                    },
+                    "ESSSPL": {
+                        "max": "4",
+                        "min": "0",
+                        "name": "speaking and listening",
+                        "strandCode": "ESSSPL"
+                    },
+                    "ESSWRI": {
+                        "max": "4",
+                        "min": "0",
+                        "name": "writing",
+                        "strandCode": "ESSWRI"
+                    }
+                }
+            },
+            "id": "ESS",
+            "key": "ESS",
+            "value": {
+                "rev": "3-b0fdbe5bf853e0fc8f8a6b83a8c4b7eb"
+            }
+        },
+        {
+            "doc": {
+                "_id": "HEC",
+                "_rev": "3-0d54185eafd66d40143e08e74ecec951",
+                "curriculum": "AUSVELS",
+                "learningArea": "the humanities - economics",
+                "strandsArray": {
+                    "HECKU": {
+                        "max": "11.5",
+                        "min": "4",
+                        "name": "economic knowledge and understanding",
+                        "strandCode": "HECKU"
+                    },
+                    "HECRI": {
+                        "max": "11.5",
+                        "min": "4",
+                        "name": "economic reasoning and interpretation",
+                        "strandCode": "HECRI"
+                    }
+                }
+            },
+            "id": "HEC",
+            "key": "HEC",
+            "value": {
+                "rev": "3-0d54185eafd66d40143e08e74ecec951"
+            }
+        },
+        {
+            "doc": {
+                "_id": "HGE",
+                "_rev": "3-02e99d64d576eda769e4f7364c079d16",
+                "curriculum": "AUSVELS",
+                "learningArea": "the humanities - geography",
+                "strandsArray": {
+                    "HGEGS": {
+                        "max": "11.5",
+                        "min": "4",
+                        "name": "geospatial skills",
+                        "strandCode": "HGEGS"
+                    },
+                    "HGEKU": {
+                        "max": "11.5",
+                        "min": "4",
+                        "name": "geographic knowledge and understanding",
+                        "strandCode": "HGEKU"
+                    }
+                }
+            },
+            "id": "HGE",
+            "key": "HGE",
+            "value": {
+                "rev": "3-02e99d64d576eda769e4f7364c079d16"
+            }
+        },
+        {
+            "doc": {
+                "_id": "HIST",
+                "_rev": "3-032a4131c55a2b159a71f31ac3d03b97",
+                "curriculum": "AUSVELS",
+                "learningArea": "the humanities - history",
+                "strandsArray": {
+                    "HISTKU": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "historic knowledge and understanding",
+                        "strandCode": "HISTKU"
+                    },
+                    "HISTSK": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "historic skills",
+                        "strandCode": "HISTSK"
+                    }
+                }
+            },
+            "id": "HIST",
+            "key": "HIST",
+            "value": {
+                "rev": "3-032a4131c55a2b159a71f31ac3d03b97"
+            }
+        },
+        {
+            "doc": {
+                "_id": "HPE",
+                "_rev": "3-c0aa8b48d03e9407848bcfc6be0850a4",
+                "curriculum": "AUSVELS",
+                "learningArea": "health and physical education",
+                "strandsArray": {
+                    "HPEKP": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "health knowledge and promotion",
+                        "strandCode": "HPEKP"
+                    },
+                    "HPEPA": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "movement and physical activity",
+                        "strandCode": "HPEPA"
+                    }
+                }
+            },
+            "id": "HPE",
+            "key": "HPE",
+            "value": {
+                "rev": "3-c0aa8b48d03e9407848bcfc6be0850a4"
+            }
+        },
+        {
+            "doc": {
+                "_id": "HUM",
+                "_rev": "3-6fca804fc3e45d19a5c9c4d1d1f36e7a",
+                "curriculum": "AUSVELS",
+                "learningArea": "the humanities",
+                "strandsArray": {
+                    "HUMKU": {
+                        "max": "4",
+                        "min": "2",
+                        "name": "humanities knowledge and understanding",
+                        "strandCode": "HUMKU"
+                    },
+                    "HUMSK": {
+                        "max": "4",
+                        "min": "2",
+                        "name": "humanities skills",
+                        "strandCode": "HUMSK"
+                    }
+                }
+            },
+            "id": "HUM",
+            "key": "HUM",
+            "value": {
+                "rev": "3-6fca804fc3e45d19a5c9c4d1d1f36e7a"
+            }
+        },
+        {
+            "doc": {
+                "_id": "ICT",
+                "_rev": "3-bb9cd65973993113100351d8f6b4fc18",
+                "curriculum": "AUSVELS",
+                "learningArea": "information and communications technology",
+                "strandsArray": {
+                    "ICTCOM": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "information and communications technology for communicating",
+                        "strandCode": "ICTCOM"
+                    },
+                    "ICTCR": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "information and communications technology for creating",
+                        "strandCode": "ICTCR"
+                    },
+                    "ICTICT": {
+                        "max": "2",
+                        "min": "F",
+                        "name": "information and communications technology",
+                        "strandCode": "ICTICT"
+                    },
+                    "ICTVT": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "information and communications technology for visualising thinking",
+                        "strandCode": "ICTVT"
+                    }
+                }
+            },
+            "id": "ICT",
+            "key": "ICT",
+            "value": {
+                "rev": "3-bb9cd65973993113100351d8f6b4fc18"
+            }
+        },
+        {
+            "doc": {
+                "_id": "IPD",
+                "_rev": "3-19c09a9d9331497b2f0922ce35036c29",
+                "curriculum": "AUSVELS",
+                "learningArea": "interpersonal development",
+                "strandsArray": {
+                    "IPDIP": {
+                        "max": "F",
+                        "min": "-4",
+                        "name": "interpersonal development",
+                        "strandCode": "IPDIP"
+                    },
+                    "IPDSOC": {
+                        "max": "11.5",
+                        "min": "F",
+                        "name": "building social relationships",
+                        "strandCode": "IPDSOC"
+                    },
+                    "IPDTEA": {
+                        "max": "11.5",
+                        "min": "F",
+                        "name": "working in teams",
+                        "strandCode": "IPDTEA"
+                    }
+                }
+            },
+            "id": "IPD",
+            "key": "IPD",
+            "value": {
+                "rev": "3-19c09a9d9331497b2f0922ce35036c29"
+            }
+        },
+        {
+            "doc": {
+                "_id": "LO1",
+                "_rev": "3-759f93ed96e15e0bc55bc7b360833017",
+                "curriculum": "AUSVELS",
+                "learningArea": "LOTE pathway 1",
+                "strandsArray": {
+                    "LO1COM": {
+                        "max": "11.5",
+                        "min": "4",
+                        "name": "communicating in a LOTE (pathway 1)",
+                        "strandCode": "LO1COM"
+                    },
+                    "LO1ICK": {
+                        "max": "11.5",
+                        "min": "4",
+                        "name": "intercultural knowledge and language awareness (pathway 1)",
+                        "strandCode": "LO1ICK"
+                    }
+                }
+            },
+            "id": "LO1",
+            "key": "LO1",
+            "value": {
+                "rev": "3-759f93ed96e15e0bc55bc7b360833017"
+            }
+        },
+        {
+            "doc": {
+                "_id": "LO2",
+                "_rev": "3-1988a4bc76bf2f56b8bd44813c351c11",
+                "curriculum": "AUSVELS",
+                "learningArea": "LOTE pathway 2",
+                "strandsArray": {
+                    "LO2COM": {
+                        "max": "11.5",
+                        "min": "6",
+                        "name": "communicating in a LOTE (pathway 2)",
+                        "strandCode": "LO2COM"
+                    },
+                    "LO2ICK": {
+                        "max": "11.5",
+                        "min": "6",
+                        "name": "intercultural knowledge and language awareness (pathway 2)",
+                        "strandCode": "LO2ICK"
+                    }
+                }
+            },
+            "id": "LO2",
+            "key": "LO2",
+            "value": {
+                "rev": "3-1988a4bc76bf2f56b8bd44813c351c11"
+            }
+        },
+        {
+            "doc": {
+                "_id": "MAT",
+                "_rev": "3-9942ae581660f2d45b0a33435bc15b95",
+                "curriculum": "AUSVELS",
+                "displayDetailedSummary": true,
+                "learningArea": "mathematics",
+                "strandsArray": {
+                    "MATMGE": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "measurement and geometry",
+                        "strandCode": "MATMGE"
+                    },
+                    "MATNUM": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "number and algebra",
+                        "strandCode": "MATNUM"
+                    },
+                    "MATSTP": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "statistics and probability",
+                        "strandCode": "MATSTP"
+                    }
+                }
+            },
+            "id": "MAT",
+            "key": "MAT",
+            "value": {
+                "rev": "3-9942ae581660f2d45b0a33435bc15b95"
+            }
+        },
+        {
+            "doc": {
+                "_id": "PLE",
+                "_rev": "3-92245cf6f6eecb6bf9a07f48459e6d66",
+                "curriculum": "AUSVELS",
+                "learningArea": "personal learning",
+                "strandsArray": {
+                    "PLEIDV": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "the individual learner",
+                        "strandCode": "PLEIDV"
+                    },
+                    "PLEMPL": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "managing personal learning",
+                        "strandCode": "PLEMPL"
+                    }
+                }
+            },
+            "id": "PLE",
+            "key": "PLE",
+            "value": {
+                "rev": "3-92245cf6f6eecb6bf9a07f48459e6d66"
+            }
+        },
+        {
+            "doc": {
+                "_id": "RE",
+                "_rev": "4-0502959dd002844e119986252e988efc",
+                "curriculum": "RE",
+                "learningArea": "Religious Education",
+                "strandsArray": {
+                    "REKAU": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "Knowledge and Understanding",
+                        "strandCode": "REKAU"
+                    },
+                    "REPCE": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "Personal and Communal Engagement",
+                        "strandCode": "REPCE"
+                    },
+                    "RERAR": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "Reasoning and Responding",
+                        "strandCode": "RERAR"
+                    },
+                    "REREL": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "Religious Education",
+                        "strandCode": "REREL"
+                    }
+                }
+            },
+            "id": "RE",
+            "key": "RE",
+            "value": {
+                "rev": "4-0502959dd002844e119986252e988efc"
+            }
+        },
+        {
+            "doc": {
+                "_id": "REN",
+                "_rev": "1-36fe34f796ac53cd9b969fb1ce230c39",
+                "curriculum": "RE",
+                "learningArea": "Religious Education",
+                "strandsArray": {
+                    "REN": {
+                        "max": "7",
+                        "min": "0",
+                        "name": "Religious Education",
+                        "strandCode": "REN"
+                    },
+                    "RENKAU": {
+                        "max": "11.5",
+                        "min": "4.5",
+                        "name": "Knowledge and Understanding",
+                        "strandCode": "RENKAU"
+                    },
+                    "RENPCE": {
+                        "max": "11.5",
+                        "min": "4.5",
+                        "name": "Personal and Communal Engagement",
+                        "strandCode": "RENPCE"
+                    },
+                    "RENRAR": {
+                        "max": "11.5",
+                        "min": "4.5",
+                        "name": "Reasoning and Responding",
+                        "strandCode": "RENRAR"
+                    }
+                }
+            },
+            "id": "REN",
+            "key": "REN",
+            "value": {
+                "rev": "1-36fe34f796ac53cd9b969fb1ce230c39"
+            }
+        },
+        {
+            "doc": {
+                "_id": "SCI",
+                "_rev": "3-8159433f60fcd06db9f18e526b45637e",
+                "curriculum": "AUSVELS",
+                "learningArea": "science",
+                "strandsArray": {
+                    "SCIHED": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "science as a human endeavour",
+                        "strandCode": "SCIHED"
+                    },
+                    "SCIISK": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "science inquiry skills",
+                        "strandCode": "SCIISK"
+                    },
+                    "SCIUND": {
+                        "max": "11.5",
+                        "min": "-4",
+                        "name": "science understanding",
+                        "strandCode": "SCIUND"
+                    }
+                }
+            },
+            "id": "SCI",
+            "key": "SCI",
+            "value": {
+                "rev": "3-8159433f60fcd06db9f18e526b45637e"
+            }
+        },
+        {
+            "doc": {
+                "_id": "THI",
+                "_rev": "3-6afabbd029f081c3f7d2c3ed41b3438c",
+                "curriculum": "AUSVELS",
+                "learningArea": "thinking processes",
+                "strandsArray": {
+                    "THICR": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "creativity",
+                        "strandCode": "THICR"
+                    },
+                    "THIREM": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "reflection, evaluation and metacognition",
+                        "strandCode": "THIREM"
+                    },
+                    "THIRPI": {
+                        "max": "11.5",
+                        "min": "2",
+                        "name": "reasoning, processing and inquiry",
+                        "strandCode": "THIRPI"
+                    }
+                }
+            },
+            "id": "THI",
+            "key": "THI",
+            "value": {
+                "rev": "3-6afabbd029f081c3f7d2c3ed41b3438c"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCADA",
+                "_rev": "7-bd2455a06088c5c9dc3526980a36de02",
+                "curriculum": "VC",
+                "learningArea": "The Arts - Dance",
+                "reporterStrands": {
+                    "VCADA": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "The Arts - Dance",
+                        "strandCode": "VCADA"
+                    }
+                },
+                "strandsArray": {
+                    "VCADAD": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Dance Practices",
+                        "strandCode": "VCADAD"
+                    },
+                    "VCADAE": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Explore and Express ideas",
+                        "strandCode": "VCADAE"
+                    },
+                    "VCADAP": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Present and Perform",
+                        "strandCode": "VCADAP"
+                    },
+                    "VCADAR": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Respond and Interpret",
+                        "strandCode": "VCADAR"
+                    }
+                }
+            },
+            "id": "VCADA",
+            "key": "VCADA",
+            "value": {
+                "rev": "7-bd2455a06088c5c9dc3526980a36de02"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCADR",
+                "_rev": "7-60760ba366159f0a8a04b53ad4aaed86",
+                "curriculum": "VC",
+                "learningArea": "The Arts - Drama",
+                "reporterStrands": {
+                    "VCADR": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "The Arts - Drama",
+                        "strandCode": "VCADR"
+                    }
+                },
+                "strandsArray": {
+                    "VCADRD": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Drama Practices",
+                        "strandCode": "VCADRD"
+                    },
+                    "VCADRE": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Explore and Express ideas",
+                        "strandCode": "VCADRE"
+                    },
+                    "VCADRP": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Present and Perform",
+                        "strandCode": "VCADRP"
+                    },
+                    "VCADRR": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Respond and Interpret",
+                        "strandCode": "VCADRR"
+                    }
+                }
+            },
+            "id": "VCADR",
+            "key": "VCADR",
+            "value": {
+                "rev": "7-60760ba366159f0a8a04b53ad4aaed86"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCAMA",
+                "_rev": "7-c7adcc84c194318acb55f16a801d80f4",
+                "curriculum": "VC",
+                "learningArea": "The Arts - Media Arts",
+                "reporterStrands": {
+                    "VCAMA": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "The Arts - Media Arts",
+                        "strandCode": "VCAMA"
+                    }
+                },
+                "strandsArray": {
+                    "VCAMAE": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Explore and Represent ideas",
+                        "strandCode": "VCAMAE"
+                    },
+                    "VCAMAM": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Media Arts Practices",
+                        "strandCode": "VCAMAM"
+                    },
+                    "VCAMAP": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Present and Perform",
+                        "strandCode": "VCAMAP"
+                    },
+                    "VCAMAR": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Respond and Interpret",
+                        "strandCode": "VCAMAR"
+                    }
+                }
+            },
+            "id": "VCAMA",
+            "key": "VCAMA",
+            "value": {
+                "rev": "7-c7adcc84c194318acb55f16a801d80f4"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCAMU",
+                "_rev": "7-75f7e7c341110efa67323be4ce30f7ed",
+                "curriculum": "VC",
+                "learningArea": "The Arts - Music",
+                "reporterStrands": {
+                    "VCAMU": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "The Arts - Music",
+                        "strandCode": "VCAMU"
+                    }
+                },
+                "strandsArray": {
+                    "VCAMUE": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Explore and Express ideas",
+                        "strandCode": "VCAMUE"
+                    },
+                    "VCAMUM": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Music Practices",
+                        "strandCode": "VCAMUM"
+                    },
+                    "VCAMUP": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Present and Perform",
+                        "strandCode": "VCAMUP"
+                    },
+                    "VCAMUR": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Respond and Interpret",
+                        "strandCode": "VCAMUR"
+                    }
+                }
+            },
+            "id": "VCAMU",
+            "key": "VCAMU",
+            "value": {
+                "rev": "7-75f7e7c341110efa67323be4ce30f7ed"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCAR",
+                "_rev": "7-b1bc6ad756e2a5280f6a4c84b1783b9d",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Arabic",
+                "reporterStrands": {
+                    "VCAR1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Arabic (F-10)",
+                        "strandCode": "VCAR1"
+                    },
+                    "VCAR2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Arabic (7-10)",
+                        "strandCode": "VCAR2"
+                    }
+                },
+                "strandsArray": {
+                    "VCARC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCARC1"
+                    },
+                    "VCARC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCARC2"
+                    },
+                    "VCARU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCARU1"
+                    },
+                    "VCARU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCARU2"
+                    }
+                }
+            },
+            "id": "VCAR",
+            "key": "VCAR",
+            "value": {
+                "rev": "7-b1bc6ad756e2a5280f6a4c84b1783b9d"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCAVA",
+                "_rev": "7-6d0edb9696fda78e98a269b81d6fe863",
+                "curriculum": "VC",
+                "learningArea": "The Arts - Visual Arts",
+                "reporterStrands": {
+                    "VCAVA": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "The Arts - Visual Arts",
+                        "strandCode": "VCAVA"
+                    }
+                },
+                "strandsArray": {
+                    "VCAVAE": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Explore and Express ideas",
+                        "strandCode": "VCAVAE"
+                    },
+                    "VCAVAP": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Present and Perform",
+                        "strandCode": "VCAVAP"
+                    },
+                    "VCAVAR": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Respond and Interpret",
+                        "strandCode": "VCAVAR"
+                    },
+                    "VCAVAV": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Visual Arts Practices",
+                        "strandCode": "VCAVAV"
+                    }
+                }
+            },
+            "id": "VCAVA",
+            "key": "VCAVA",
+            "value": {
+                "rev": "7-6d0edb9696fda78e98a269b81d6fe863"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCAVCD",
+                "_rev": "7-584fe2e95b1d8580bcf0c85688b4a12c",
+                "curriculum": "VC",
+                "learningArea": "The Arts - Visual Communication Design",
+                "reporterStrands": {
+                    "VCAVCD": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "The Arts - Visual Communication Design",
+                        "strandCode": "VCAVCD"
+                    }
+                },
+                "strandsArray": {
+                    "VCAVCDE": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Explore and Represent ideas",
+                        "strandCode": "VCAVCDE"
+                    },
+                    "VCAVCDP": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Present and Perform",
+                        "strandCode": "VCAVCDP"
+                    },
+                    "VCAVCDR": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Respond and Interpret",
+                        "strandCode": "VCAVCDR"
+                    },
+                    "VCAVCDV": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Visual Communication Design Practices",
+                        "strandCode": "VCAVCDV"
+                    }
+                }
+            },
+            "id": "VCAVCD",
+            "key": "VCAVCD",
+            "value": {
+                "rev": "7-584fe2e95b1d8580bcf0c85688b4a12c"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCCC",
+                "_rev": "7-eade40f49f8d08bc380f4da912007088",
+                "curriculum": "VC",
+                "learningArea": "The Humanities - Civics and Citizenship",
+                "reporterStrands": {
+                    "VCCC": {
+                        "max": "11",
+                        "min": "2.5",
+                        "name": "The Humanities - Civics and Citizenship",
+                        "strandCode": "VCCC"
+                    }
+                },
+                "strandsArray": {
+                    "VCCCC": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Citizenship, Diversity and identity",
+                        "strandCode": "VCCCC"
+                    },
+                    "VCCCG": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Government and Democracy",
+                        "strandCode": "VCCCG"
+                    },
+                    "VCCCL": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Laws and Citizens",
+                        "strandCode": "VCCCL"
+                    }
+                }
+            },
+            "id": "VCCC",
+            "key": "VCCC",
+            "value": {
+                "rev": "7-eade40f49f8d08bc380f4da912007088"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCCCT",
+                "_rev": "7-1f85a42152654f0252ce83b2b90f7c58",
+                "curriculum": "VC",
+                "learningArea": "Capabilities - Critical and Creative Thinking Capability",
+                "reporterStrands": {
+                    "VCCCT": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Capabilities - Critical and Creative Thinking Capability",
+                        "strandCode": "VCCCT"
+                    }
+                },
+                "strandsArray": {
+                    "VCCCTM": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Meta-Cognition",
+                        "strandCode": "VCCCTM"
+                    },
+                    "VCCCTQ": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Questions and Possibilities",
+                        "strandCode": "VCCCTQ"
+                    },
+                    "VCCCTR": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Reasoning",
+                        "strandCode": "VCCCTR"
+                    }
+                }
+            },
+            "id": "VCCCT",
+            "key": "VCCCT",
+            "value": {
+                "rev": "7-1f85a42152654f0252ce83b2b90f7c58"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCDE",
+                "_rev": "7-ede82e231e17f372c6baa28295c25902",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - German",
+                "reporterStrands": {
+                    "VCDE1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "German (F-10)",
+                        "strandCode": "VCDE1"
+                    },
+                    "VCDE2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "German (7-10)",
+                        "strandCode": "VCDE2"
+                    }
+                },
+                "strandsArray": {
+                    "VCDEC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCDEC1"
+                    },
+                    "VCDEC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCDEC2"
+                    },
+                    "VCDEU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCDEU1"
+                    },
+                    "VCDEU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCDEU2"
+                    }
+                }
+            },
+            "id": "VCDE",
+            "key": "VCDE",
+            "value": {
+                "rev": "7-ede82e231e17f372c6baa28295c25902"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCDS",
+                "_rev": "7-16d0238f1a303553fa7872e7038a3da9",
+                "curriculum": "VC",
+                "learningArea": "Technologies - Design and Technologies",
+                "reporterStrands": {
+                    "VCDS": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Technologies - Design and Technologies",
+                        "strandCode": "VCDS"
+                    }
+                },
+                "strandsArray": {
+                    "VCDSCD": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Creating Designed Solutions",
+                        "strandCode": "VCDSCD"
+                    },
+                    "VCDSTC": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Technologies Contexts",
+                        "strandCode": "VCDSTC"
+                    },
+                    "VCDSTS": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Technologies and Society",
+                        "strandCode": "VCDSTS"
+                    }
+                }
+            },
+            "id": "VCDS",
+            "key": "VCDS",
+            "value": {
+                "rev": "7-16d0238f1a303553fa7872e7038a3da9"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCDT",
+                "_rev": "7-95978b722f6ee14fd603ffb229e955f5",
+                "curriculum": "VC",
+                "learningArea": "Technologies - Digital Technologies",
+                "reporterStrands": {
+                    "VCDT": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Technologies - Digital Technologies",
+                        "strandCode": "VCDT"
+                    }
+                },
+                "strandsArray": {
+                    "VCDTCD": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Creating Digital Solutions",
+                        "strandCode": "VCDTCD"
+                    },
+                    "VCDTDI": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Data and Information",
+                        "strandCode": "VCDTDI"
+                    },
+                    "VCDTDS": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Digital Systems",
+                        "strandCode": "VCDTDS"
+                    }
+                }
+            },
+            "id": "VCDT",
+            "key": "VCDT",
+            "value": {
+                "rev": "7-95978b722f6ee14fd603ffb229e955f5"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCE",
+                "_rev": "7-0bb00acba923cbefb52c95dfac18109b",
+                "alternativeLearningArea": "EAL",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "English",
+                "reporterStrands": {
+                    "VCERV": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Reading and Viewing",
+                        "strandCode": "VCERV"
+                    },
+                    "VCESL": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Speaking and Listening",
+                        "strandCode": "VCESL"
+                    },
+                    "VCEW": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Writing",
+                        "strandCode": "VCEW"
+                    }
+                },
+                "strandsArray": {
+                    "VCERV": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Reading and Viewing",
+                        "strandCode": "VCERV"
+                    },
+                    "VCESL": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Speaking and Listening",
+                        "strandCode": "VCESL"
+                    },
+                    "VCEW": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Writing",
+                        "strandCode": "VCEW"
+                    }
+                }
+            },
+            "id": "VCE",
+            "key": "VCE",
+            "value": {
+                "rev": "7-0bb00acba923cbefb52c95dfac18109b"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCEB",
+                "_rev": "7-315bc7e86df4fe03909676d152bfb8b7",
+                "curriculum": "VC",
+                "learningArea": "The Humanities - Economics and Business",
+                "reporterStrands": {
+                    "VCEB": {
+                        "max": "11",
+                        "min": "4.5",
+                        "name": "The Humanities - Economics and Business",
+                        "strandCode": "VCEB"
+                    }
+                },
+                "strandsArray": {
+                    "VCEBB": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "The Business Environment",
+                        "strandCode": "VCEBB"
+                    },
+                    "VCEBC": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Consumer and Financial Literacy",
+                        "strandCode": "VCEBC"
+                    },
+                    "VCEBE": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Economic and Business Reasoning and Interpretation",
+                        "strandCode": "VCEBE"
+                    },
+                    "VCEBN": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Enterprising Behaviours and Capabilities",
+                        "strandCode": "VCEBN"
+                    },
+                    "VCEBR": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Resource Allocation and Making Choices",
+                        "strandCode": "VCEBR"
+                    },
+                    "VCEBW": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Work and Work Futures",
+                        "strandCode": "VCEBW"
+                    }
+                }
+            },
+            "id": "VCEB",
+            "key": "VCEB",
+            "value": {
+                "rev": "7-315bc7e86df4fe03909676d152bfb8b7"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCEC",
+                "_rev": "7-b6697789b2d9d64d12db4511087e2aee",
+                "curriculum": "VC",
+                "learningArea": "Capabilities - Ethical Capability",
+                "reporterStrands": {
+                    "VCEC": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Capabilities - Ethical Capability",
+                        "strandCode": "VCEC"
+                    }
+                },
+                "strandsArray": {
+                    "VCECD": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Decision Making and Actions",
+                        "strandCode": "VCECD"
+                    },
+                    "VCECU": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding Concepts",
+                        "strandCode": "VCECU"
+                    }
+                }
+            },
+            "id": "VCEC",
+            "key": "VCEC",
+            "value": {
+                "rev": "7-b6697789b2d9d64d12db4511087e2aee"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCEL",
+                "_rev": "7-a0b86661202f7e4a0f80430f160a0202",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Modern Greek",
+                "reporterStrands": {
+                    "VCEL1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Modern Greek (F-10)",
+                        "strandCode": "VCEL1"
+                    },
+                    "VCEL2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Modern Greek (7-10)",
+                        "strandCode": "VCEL2"
+                    }
+                },
+                "strandsArray": {
+                    "VCELC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCELC1"
+                    },
+                    "VCELC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCELC2"
+                    },
+                    "VCELU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCELU1"
+                    },
+                    "VCELU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCELU2"
+                    }
+                }
+            },
+            "id": "VCEL",
+            "key": "VCEL",
+            "value": {
+                "rev": "7-a0b86661202f7e4a0f80430f160a0202"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCES",
+                "_rev": "7-8bc6cebc9b092d2c6ffaf8ecb66f4483",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Spanish",
+                "reporterStrands": {
+                    "VCES1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Spanish (F-10)",
+                        "strandCode": "VCES1"
+                    },
+                    "VCES2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Spanish (7-10)",
+                        "strandCode": "VCES2"
+                    }
+                },
+                "strandsArray": {
+                    "VCESC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCESC1"
+                    },
+                    "VCESC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCESC2"
+                    },
+                    "VCESU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCESU1"
+                    },
+                    "VCESU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCESU2"
+                    }
+                }
+            },
+            "id": "VCES",
+            "key": "VCES",
+            "value": {
+                "rev": "7-8bc6cebc9b092d2c6ffaf8ecb66f4483"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCFR",
+                "_rev": "7-bb3ad614e263e19da3867e8b18933c84",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - French",
+                "reporterStrands": {
+                    "VCFR1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "French (F-10)",
+                        "strandCode": "VCFR1"
+                    },
+                    "VCFR2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "French (7-10)",
+                        "strandCode": "VCFR2"
+                    }
+                },
+                "strandsArray": {
+                    "VCFRC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCFRC1"
+                    },
+                    "VCFRC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCFRC2"
+                    },
+                    "VCFRU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCFRU1"
+                    },
+                    "VCFRU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCFRU2"
+                    }
+                }
+            },
+            "id": "VCFR",
+            "key": "VCFR",
+            "value": {
+                "rev": "7-bb3ad614e263e19da3867e8b18933c84"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCG",
+                "_rev": "7-1e3a12db0040b8c1513141823b37a72c",
+                "curriculum": "VC",
+                "learningArea": "The Humanities - Geography",
+                "reporterStrands": {
+                    "VCG": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "The Humanities - Geography",
+                        "strandCode": "VCG"
+                    }
+                },
+                "strandsArray": {
+                    "VCGGC": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Geographical Concepts and Skills",
+                        "strandCode": "VCGGC"
+                    },
+                    "VCGGK": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Geographical Knowledge",
+                        "strandCode": "VCGGK"
+                    }
+                }
+            },
+            "id": "VCG",
+            "key": "VCG",
+            "value": {
+                "rev": "7-1e3a12db0040b8c1513141823b37a72c"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCH",
+                "_rev": "7-5ba6fae5b345a46a4a40f683e72c7989",
+                "curriculum": "VC",
+                "learningArea": "The Humanities - History",
+                "reporterStrands": {
+                    "VCH": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "The Humanities - History",
+                        "strandCode": "VCH"
+                    }
+                },
+                "strandsArray": {
+                    "VCHHC": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Historical Concepts and Skills",
+                        "strandCode": "VCHHC"
+                    },
+                    "VCHHK": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Historical Knowledge",
+                        "strandCode": "VCHHK"
+                    }
+                }
+            },
+            "id": "VCH",
+            "key": "VCH",
+            "value": {
+                "rev": "7-5ba6fae5b345a46a4a40f683e72c7989"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCHI",
+                "_rev": "7-65fea794c0aff6708628ca050a61dcc0",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Hindi",
+                "reporterStrands": {
+                    "VCHI1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Hindi (F-10)",
+                        "strandCode": "VCHI1"
+                    },
+                    "VCHI2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Hindi (7-10)",
+                        "strandCode": "VCHI2"
+                    }
+                },
+                "strandsArray": {
+                    "VCHIC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCHIC1"
+                    },
+                    "VCHIC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCHIC2"
+                    },
+                    "VCHIU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCHIU1"
+                    },
+                    "VCHIU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCHIU2"
+                    }
+                }
+            },
+            "id": "VCHI",
+            "key": "VCHI",
+            "value": {
+                "rev": "7-65fea794c0aff6708628ca050a61dcc0"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCHPE",
+                "_rev": "7-a09fa9f5ac37881c2b8704097e154799",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Health and Physical Education",
+                "reporterStrands": {
+                    "VCHPEH": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Health Education",
+                        "strandCode": "VCHPEH"
+                    },
+                    "VCHPEM": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Movement and Physical Activity",
+                        "strandCode": "VCHPEM"
+                    },
+                    "VCHPEP": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Personal, Social and Community Health",
+                        "strandCode": "VCHPEP"
+                    },
+                    "VCHPEPE": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Physical Education",
+                        "strandCode": "VCHPEPE"
+                    }
+                },
+                "strandsArray": {
+                    "VCHPEH": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Health Education",
+                        "strandCode": "VCHPEH"
+                    },
+                    "VCHPEM": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Movement and Physical Activity",
+                        "strandCode": "VCHPEM"
+                    },
+                    "VCHPEP": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Personal, Social and Community Health",
+                        "strandCode": "VCHPEP"
+                    },
+                    "VCHPEPE": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Physical Education",
+                        "strandCode": "VCHPEPE"
+                    }
+                }
+            },
+            "id": "VCHPE",
+            "key": "VCHPE",
+            "value": {
+                "rev": "7-a09fa9f5ac37881c2b8704097e154799"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCIC",
+                "_rev": "7-e388a84d08c804aa6eddc8e24e25d482",
+                "curriculum": "VC",
+                "learningArea": "Capabilities - Intercultural Capability",
+                "reporterStrands": {
+                    "VCIC": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Capabilities - Intercultural Capability",
+                        "strandCode": "VCIC"
+                    }
+                },
+                "strandsArray": {
+                    "VCICCD": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Cultural Diversity",
+                        "strandCode": "VCICCD"
+                    },
+                    "VCICCP": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Cultural Practices",
+                        "strandCode": "VCICCP"
+                    }
+                }
+            },
+            "id": "VCIC",
+            "key": "VCIC",
+            "value": {
+                "rev": "7-e388a84d08c804aa6eddc8e24e25d482"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCID",
+                "_rev": "7-c8c947d09e637efa8c88364179d5269e",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Indonesian",
+                "reporterStrands": {
+                    "VCID1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Indonesian (F-10)",
+                        "strandCode": "VCID1"
+                    },
+                    "VCID2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Indonesian (7-10)",
+                        "strandCode": "VCID2"
+                    }
+                },
+                "strandsArray": {
+                    "VCIDC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCIDC1"
+                    },
+                    "VCIDC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCIDC2"
+                    },
+                    "VCIDU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCIDU1"
+                    },
+                    "VCIDU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCIDU2"
+                    }
+                }
+            },
+            "id": "VCID",
+            "key": "VCID",
+            "value": {
+                "rev": "7-c8c947d09e637efa8c88364179d5269e"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCIT",
+                "_rev": "7-774bfe5ee752bacafe28c43a1a17b368",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Italian",
+                "reporterStrands": {
+                    "VCIT1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Italian (F-10)",
+                        "strandCode": "VCIT1"
+                    },
+                    "VCIT2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Italian (7-10)",
+                        "strandCode": "VCIT2"
+                    }
+                },
+                "strandsArray": {
+                    "VCITC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCITC1"
+                    },
+                    "VCITC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCITC2"
+                    },
+                    "VCITU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCITU1"
+                    },
+                    "VCITU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCITU2"
+                    }
+                }
+            },
+            "id": "VCIT",
+            "key": "VCIT",
+            "value": {
+                "rev": "7-774bfe5ee752bacafe28c43a1a17b368"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCJA",
+                "_rev": "7-0bca5ad65ba33e8e7f0552ca646afb4e",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Japanese",
+                "reporterStrands": {
+                    "VCJA1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Japanese (F-10)",
+                        "strandCode": "VCJA1"
+                    },
+                    "VCJA2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Japanese (7-10)",
+                        "strandCode": "VCJA2"
+                    }
+                },
+                "strandsArray": {
+                    "VCJAC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCJAC1"
+                    },
+                    "VCJAC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCJAC2"
+                    },
+                    "VCJAU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCJAU1"
+                    },
+                    "VCJAU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCJAU2"
+                    }
+                }
+            },
+            "id": "VCJA",
+            "key": "VCJA",
+            "value": {
+                "rev": "7-0bca5ad65ba33e8e7f0552ca646afb4e"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCKO",
+                "_rev": "7-549af298f944fc639e5e66dfaa1c033c",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Korean",
+                "reporterStrands": {
+                    "VCKO1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Korean (F-10)",
+                        "strandCode": "VCKO1"
+                    },
+                    "VCKO2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Korean (7-10)",
+                        "strandCode": "VCKO2"
+                    }
+                },
+                "strandsArray": {
+                    "VCKOC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCKOC1"
+                    },
+                    "VCKOC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCKOC2"
+                    },
+                    "VCKOU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCKOU1"
+                    },
+                    "VCKOU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCKOU2"
+                    }
+                }
+            },
+            "id": "VCKO",
+            "key": "VCKO",
+            "value": {
+                "rev": "7-549af298f944fc639e5e66dfaa1c033c"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCLAU",
+                "_rev": "5-98c6752a2945152f72bef337e8b578f7",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Auslan",
+                "reporterStrands": {
+                    "VCLAU1": {
+                        "max": "11",
+                        "min": "0",
+                        "name": "Auslan (F-10)",
+                        "strandCode": "VCLAU1"
+                    },
+                    "VCLAU2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Auslan (7-10)",
+                        "strandCode": "VCLAU2"
+                    }
+                },
+                "strandsArray": {
+                    "VCLAU1": {
+                        "max": "11",
+                        "min": "0",
+                        "name": "Auslan (F-10)",
+                        "strandCode": "VCLAU1"
+                    },
+                    "VCLAU2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Auslan (7-10)",
+                        "strandCode": "VCLAU2"
+                    }
+                }
+            },
+            "id": "VCLAU",
+            "key": "VCLAU",
+            "value": {
+                "rev": "5-98c6752a2945152f72bef337e8b578f7"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCLCG",
+                "_rev": "4-13f42cdea1fc7b09cc7703c25614949b",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Classical Greek",
+                "reporterStrands": {
+                    "VCLCG": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Classical Greek (7-10)",
+                        "strandCode": "VCLCG"
+                    }
+                },
+                "strandsArray": {
+                    "VCLCG": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Classical Greek (7-10)",
+                        "strandCode": "VCLCG"
+                    }
+                }
+            },
+            "id": "VCLCG",
+            "key": "VCLCG",
+            "value": {
+                "rev": "4-13f42cdea1fc7b09cc7703c25614949b"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCLCL",
+                "_rev": "4-5d1b3ab9544940afd2c367467dbbac4b",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Classical Languages",
+                "reporterStrands": {
+                    "VCLCL": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Classical Languages (7-10)",
+                        "strandCode": "VCLCL"
+                    }
+                },
+                "strandsArray": {
+                    "VCLCL": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Classical Languages (7-10)",
+                        "strandCode": "VCLCL"
+                    }
+                }
+            },
+            "id": "VCLCL",
+            "key": "VCLCL",
+            "value": {
+                "rev": "4-5d1b3ab9544940afd2c367467dbbac4b"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCLLA",
+                "_rev": "4-d7a220b7cf61c627a8b2067f9faf5ca2",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Latin",
+                "reporterStrands": {
+                    "VCLLA": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Latin (7-10)",
+                        "strandCode": "VCLLA"
+                    }
+                },
+                "strandsArray": {
+                    "VCLLA": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Latin (7-10)",
+                        "strandCode": "VCLLA"
+                    }
+                }
+            },
+            "id": "VCLLA",
+            "key": "VCLLA",
+            "value": {
+                "rev": "4-d7a220b7cf61c627a8b2067f9faf5ca2"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCLVA",
+                "_rev": "6-84e137e90cf7b34ed3334846158d0c67",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Victorian Aboriginal Languages",
+                "reporterStrands": {
+                    "VCLVA": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Victorian Aboriginal Languages (F-10)",
+                        "strandCode": "VCLVA"
+                    }
+                },
+                "strandsArray": {
+                    "VCLVAC": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCLVAC"
+                    },
+                    "VCLVAU": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCLVAU"
+                    }
+                }
+            },
+            "id": "VCLVA",
+            "key": "VCLVA",
+            "value": {
+                "rev": "6-84e137e90cf7b34ed3334846158d0c67"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCM",
+                "_rev": "7-f4324755f7acfe9cd8ce46c69101edd1",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Mathematics",
+                "reporterStrands": {
+                    "VCMMG": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Measurement and Geometry",
+                        "strandCode": "VCMMG"
+                    },
+                    "VCMNA": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Number and Algebra",
+                        "strandCode": "VCMNA"
+                    },
+                    "VCMSP": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Statistics and Probability",
+                        "strandCode": "VCMSP"
+                    }
+                },
+                "strandsArray": {
+                    "VCMMG": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Measurement and Geometry",
+                        "strandCode": "VCMMG"
+                    },
+                    "VCMNA": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Number and Algebra",
+                        "strandCode": "VCMNA"
+                    },
+                    "VCMSP": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Statistics and Probability",
+                        "strandCode": "VCMSP"
+                    }
+                }
+            },
+            "id": "VCM",
+            "key": "VCM",
+            "value": {
+                "rev": "7-f4324755f7acfe9cd8ce46c69101edd1"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCNR",
+                "_rev": "7-e419f9e2498d9e075ae0df1b0060c08f",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Non-Roman Alphabet Languages",
+                "reporterStrands": {
+                    "VCNR1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Non-Roman Alphabet Languages (F-10)",
+                        "strandCode": "VCNR1"
+                    },
+                    "VCNR2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Non-Roman Alphabet Languages (7-10)",
+                        "strandCode": "VCNR2"
+                    }
+                },
+                "strandsArray": {
+                    "VCNRC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCNRC1"
+                    },
+                    "VCNRC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCNRC2"
+                    },
+                    "VCNRU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCNRU1"
+                    },
+                    "VCNRU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCNRU2"
+                    }
+                }
+            },
+            "id": "VCNR",
+            "key": "VCNR",
+            "value": {
+                "rev": "7-e419f9e2498d9e075ae0df1b0060c08f"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCPSC",
+                "_rev": "7-dceb6ff58ca75154e95248439dfaba29",
+                "curriculum": "VC",
+                "learningArea": "Capabilities - Personal and Social Capability",
+                "reporterStrands": {
+                    "VCPSC": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Capabilities - Personal and Social Capability",
+                        "strandCode": "VCPSC"
+                    }
+                },
+                "strandsArray": {
+                    "VCPSCSE": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Self-Awareness and Management",
+                        "strandCode": "VCPSCSE"
+                    },
+                    "VCPSCSO": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Social Awareness and Management",
+                        "strandCode": "VCPSCSO"
+                    }
+                }
+            },
+            "id": "VCPSC",
+            "key": "VCPSC",
+            "value": {
+                "rev": "7-dceb6ff58ca75154e95248439dfaba29"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCRA",
+                "_rev": "7-f011e3c59e5dab101e9dc09fcd51770e",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Roman Alphabet Languages",
+                "reporterStrands": {
+                    "VCRA1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Roman Alphabet Languages (F-10)",
+                        "strandCode": "VCRA1"
+                    },
+                    "VCRA2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Roman Alphabet Languages (7-10)",
+                        "strandCode": "VCRA2"
+                    }
+                },
+                "strandsArray": {
+                    "VCRAC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCRAC1"
+                    },
+                    "VCRAC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCRAC2"
+                    },
+                    "VCRAU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCRAU1"
+                    },
+                    "VCRAU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCRAU2"
+                    }
+                }
+            },
+            "id": "VCRA",
+            "key": "VCRA",
+            "value": {
+                "rev": "7-f011e3c59e5dab101e9dc09fcd51770e"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCS",
+                "_rev": "7-0e27a3a455649cfe3f755e55e6ab94f7",
+                "curriculum": "VC",
+                "learningArea": "Science",
+                "reporterStrands": {
+                    "VCS": {
+                        "max": "11",
+                        "min": "-4",
+                        "name": "Science",
+                        "strandCode": "VCS"
+                    }
+                },
+                "strandsArray": {
+                    "VCSIS": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Science Inquiry Skills",
+                        "strandCode": "VCSIS"
+                    },
+                    "VCSSU": {
+                        "max": "10.5",
+                        "min": "-4",
+                        "name": "Science Understanding",
+                        "strandCode": "VCSSU"
+                    }
+                }
+            },
+            "id": "VCS",
+            "key": "VCS",
+            "value": {
+                "rev": "7-0e27a3a455649cfe3f755e55e6ab94f7"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCTR",
+                "_rev": "7-e0d8c69776d306377c7d0ca298b08483",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Turkish",
+                "reporterStrands": {
+                    "VCTR1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Turkish (F-10)",
+                        "strandCode": "VCTR1"
+                    },
+                    "VCTR2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Turkish (7-10)",
+                        "strandCode": "VCTR2"
+                    }
+                },
+                "strandsArray": {
+                    "VCTRC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCTRC1"
+                    },
+                    "VCTRC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCTRC2"
+                    },
+                    "VCTRU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCTRU1"
+                    },
+                    "VCTRU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCTRU2"
+                    }
+                }
+            },
+            "id": "VCTR",
+            "key": "VCTR",
+            "value": {
+                "rev": "7-e0d8c69776d306377c7d0ca298b08483"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCVI",
+                "_rev": "7-4e69fc6e205b463600d9b4a78b96fdb9",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Vietnamese",
+                "reporterStrands": {
+                    "VCVI1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Vietnamese (F-10)",
+                        "strandCode": "VCVI1"
+                    },
+                    "VCVI2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Vietnamese (7-10)",
+                        "strandCode": "VCVI2"
+                    }
+                },
+                "strandsArray": {
+                    "VCVIC1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (F-10)",
+                        "strandCode": "VCVIC1"
+                    },
+                    "VCVIC2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Communicating (7-10)",
+                        "strandCode": "VCVIC2"
+                    },
+                    "VCVIU1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (F-10)",
+                        "strandCode": "VCVIU1"
+                    },
+                    "VCVIU2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Understanding (7-10)",
+                        "strandCode": "VCVIU2"
+                    }
+                }
+            },
+            "id": "VCVI",
+            "key": "VCVI",
+            "value": {
+                "rev": "7-4e69fc6e205b463600d9b4a78b96fdb9"
+            }
+        },
+        {
+            "doc": {
+                "_id": "VCZH",
+                "_rev": "7-a88c821ac751cfdd6f1bf43a683ef1a8",
+                "curriculum": "VC",
+                "displayDetailedSummary": true,
+                "learningArea": "Languages - Chinese",
+                "reporterStrands": {
+                    "VCZHB1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Background Language Learners (F-10)",
+                        "strandCode": "VCZHB1"
+                    },
+                    "VCZHB2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Background Language Learners (7-10)",
+                        "strandCode": "VCZHB2"
+                    },
+                    "VCZHF2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "First Language Learners (7-10)",
+                        "strandCode": "VCZHF2"
+                    },
+                    "VCZHS1": {
+                        "max": "11",
+                        "min": "0.5",
+                        "name": "Second Language Learners (F-10)",
+                        "strandCode": "VCZHS1"
+                    },
+                    "VCZHS2": {
+                        "max": "11",
+                        "min": "6.5",
+                        "name": "Second Language Learners (7-10)",
+                        "strandCode": "VCZHS2"
+                    }
+                },
+                "strandsArray": {
+                    "VCZHCB1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Background Language Learners - Communicating (F-10)",
+                        "strandCode": "VCZHCB1"
+                    },
+                    "VCZHCB2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Background Language Learners - Communicating (7-10)",
+                        "strandCode": "VCZHCB2"
+                    },
+                    "VCZHCF1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "First Language Learners - Communicating (7-10)",
+                        "strandCode": "VCZHCF1"
+                    },
+                    "VCZHCS1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Second Language Learners - Communicating (F-10)",
+                        "strandCode": "VCZHCS1"
+                    },
+                    "VCZHCS2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Second Language Learners - Communicating (7-10)",
+                        "strandCode": "VCZHCS2"
+                    },
+                    "VCZHUB1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Background Language Learners - Understanding (F-10)",
+                        "strandCode": "VCZHUB1"
+                    },
+                    "VCZHUB2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Background Language Learners - Understanding (7-10)",
+                        "strandCode": "VCZHUB2"
+                    },
+                    "VCZHUF1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "First Language Learners - Understanding (7-10)",
+                        "strandCode": "VCZHUF1"
+                    },
+                    "VCZHUS1": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Second Language Learners - Understanding (F-10)",
+                        "strandCode": "VCZHUS1"
+                    },
+                    "VCZHUS2": {
+                        "max": "10.5",
+                        "min": "0",
+                        "name": "Second Language Learners - Understanding (7-10)",
+                        "strandCode": "VCZHUS2"
+                    }
+                }
+            },
+            "id": "VCZH",
+            "key": "VCZH",
+            "value": {
+                "rev": "7-a88c821ac751cfdd6f1bf43a683ef1a8"
+            }
+        },
+        {
+            "doc": {
+                "_id": "_design/show",
+                "_rev": "1-fa94a2a069af8b06122d71ebd3781313",
+                "language": "javascript",
+                "views": {
+                    "byCurriculum": {
+                        "map": "function(doc) { emit(doc.curriculum, doc); }"
+                    }
+                }
+            },
+            "id": "_design/show",
+            "key": "_design/show",
+            "value": {
+                "rev": "1-fa94a2a069af8b06122d71ebd3781313"
+            }
+        }
+    ],
+    "total_rows": 98
+}
